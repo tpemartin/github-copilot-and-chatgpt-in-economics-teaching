@@ -44,9 +44,12 @@ marp: true
 ---
 # [經濟論壇](https://github.com/tpemartin/github-copilot-and-chatgpt-in-economics-teaching/tree/main/%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87)
 
+  * 基本的ChatGPT使用
+
 ---
 
-# [資料科學程式設計（一）]
+# [資料科學程式設計（一）](https://github.com/tpemartin/github-copilot-and-chatgpt-in-economics-teaching/tree/main/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%EF%BC%88%E4%B8%80%EF%BC%89)
+
 
 ---
 
@@ -63,14 +66,23 @@ marp: true
       * 當中`r`可換成其他語言，例如`python`、`julia`、`stata`、`bash`、`sql`等等。
 
 ---
-# 資料科學程式設計（一）
 
-  
+# 計量經濟學
 
+  * [計量經濟學]
+
+---
+
+# 總體經濟學
+
+  * [總體經濟學]
 
 ---
 
 # [用程式設計學賽局](https://github.com/tpemartin/github-copilot-and-chatgpt-in-economics-teaching/tree/main/%E7%94%A8%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E5%AD%B8%E8%B3%BD%E5%B1%80)
+
+  * 課程大綱：ChatGPT為底
+  * 講義：Copilot + ChatGPT
 
 
 
