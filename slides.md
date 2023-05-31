@@ -121,7 +121,12 @@ Free for education use.
   * Apply at [GitHub Education](https://education.github.com/).
   * 透過學校整批申請比較省事。
 
+---
 
+# Mardown conversion 
+
+  * The easiest way is to use [RSudio](https://www.rstudio.com/)
+  
 ---
 
 # 謝謝大家
